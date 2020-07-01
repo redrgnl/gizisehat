@@ -1,0 +1,75 @@
+/* ============ FlatIcon Hotel ============ */
+
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 23/04/2018 08:32
+  	*/
+
+@font-face {
+  font-family: "Flaticon1";
+  src: url("../fonts/flaticon/font1/Flaticon1.eot");
+  src: url("../fonts/flaticon/font1/Flaticon1.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/flaticon/font1/Flaticon1.woff") format("woff"),
+       url("../fonts/flaticon/font1/Flaticon1.ttf") format("truetype"),
+       url("../fonts/flaticon/font1/Flaticon1.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon1";
+    src: url("../fonts/flaticon/font1/Flaticon1.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon1-"]:before, [class*=" flaticon1-"]:before,
+[class^="flaticon1-"]:after, [class*=" flaticon1-"]:after {   
+  font-family: Flaticon1;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon1-001-drink:before { content: "\f100"; }
+.flaticon1-002-tv:before { content: "\f101"; }
+.flaticon1-003-restroom:before { content: "\f102"; }
+.flaticon1-004-pool:before { content: "\f103"; }
+.flaticon1-005-room-service:before { content: "\f104"; }
+.flaticon1-006-parking:before { content: "\f105"; }
+.flaticon1-007-hotel-key:before { content: "\f106"; }
+.flaticon1-008-heating:before { content: "\f107"; }
+.flaticon1-009-hair-dryer:before { content: "\f108"; }
+.flaticon1-010-gym:before { content: "\f109"; }
+.flaticon1-011-elevator:before { content: "\f10a"; }
+.flaticon1-012-doorknob:before { content: "\f10b"; }
+.flaticon1-013-exit:before { content: "\f10c"; }
+.flaticon1-014-dish:before { content: "\f10d"; }
+.flaticon1-015-desk:before { content: "\f10e"; }
+.flaticon1-016-phone:before { content: "\f10f"; }
+.flaticon1-017-cab:before { content: "\f110"; }
+.flaticon1-018-bus:before { content: "\f111"; }
+.flaticon1-019-hotel-1:before { content: "\f112"; }
+.flaticon1-020-safebox:before { content: "\f113"; }
+.flaticon1-021-minibar:before { content: "\f114"; }
+.flaticon1-022-hotel:before { content: "\f115"; }
+.flaticon1-023-bellhop:before { content: "\f116"; }
+.flaticon1-024-tray:before { content: "\f117"; }
+.flaticon1-025-single-bed:before { content: "\f118"; }
+.flaticon1-026-bed:before { content: "\f119"; }
+.flaticon1-027-mirror:before { content: "\f11a"; }
+.flaticon1-028-shower-1:before { content: "\f11b"; }
+.flaticon1-029-towel:before { content: "\f11c"; }
+.flaticon1-030-bathrobe:before { content: "\f11d"; }
+.flaticon1-031-shower:before { content: "\f11e"; }
+.flaticon1-032-bathtub:before { content: "\f11f"; }
+.flaticon1-033-suitcase:before { content: "\f120"; }
+.flaticon1-034-air-conditioner:before { content: "\f121"; }
+.flaticon1-035-brochure:before { content: "\f122"; }
+.flaticon1-036-hours:before { content: "\f123"; }
